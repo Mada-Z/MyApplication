@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cameraFunction"
+        android:title="Camera Function"
+        android:icon="@drawable/ic_baseline_camera_alt_24"/>
+    <item
+        android:id="@+id/recycler_view"
+        android:title="Recycler View"
+        android:icon="@drawable/ic_baseline_remove_red_eye_24"/>
+</menu>

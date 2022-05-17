@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CockerSpanielActivity">
+    <ImageView
+        android:id="@+id/cockerSpanielView"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"/>
+    <TextView
+        android:id="@+id/cockerSpanielText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Cockerii Spaniel Englezi sunt câini de talie medie, bine echilibrați. Blana lor este dreaptă și mătăsoasă, cu un penaj bogat pe picioarele din față. Cockerii Spaniel pot avea o multitudine de culori și combinații diferite, inclusiv culori solide cum ar fi negru, roșu, oranj și maro, combinații de negru cu alb, roșu închis cu alb, roșu cu alb, albastru argăsit, oranj argăsit, negru argăsit, parțial colorat și tricolor. Masculii adulți măsoară 39-41 centimetri, iar femelele adulte 38-39 centimetri. Ei cântăresc aproximativ 13-14,5 kilograme."
+        android:textSize="16dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#FF0000"
+        app:layout_constraintTop_toBottomOf="@+id/cockerSpanielView"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

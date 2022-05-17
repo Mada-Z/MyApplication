@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChowChowActivity">
+
+    <ImageView
+        android:id="@+id/chowchowView"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/chowchowText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Chow Chow cu părul aspru este un câine scund, compact, cu aspect pătrățos. Coada este purtată arcuit pe spate. Interiorul gurii și limba sunt albastre/negre. Există două tipuri de blană – aspră și fină – și o gamă largă de culori (negru, roșu, albastru, cafeniu, crem sau alb). Masculii adulți măsoară 48-56 cm și cântăresc aproximativ 26-32 kg. Femelele adulte măsoară 46-51 cm și cântăresc 20-25 kg."
+        android:textSize="16dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#FF0000"
+        app:layout_constraintTop_toBottomOf="@+id/chowchowView"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

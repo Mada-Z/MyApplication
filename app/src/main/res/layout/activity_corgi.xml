@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CorgiActivity">
+    <ImageView
+        android:id="@+id/corgiView"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"/>
+    <TextView
+        android:id="@+id/corgiText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginLeft="10dp"
+        android:text="Pembroke Corgi este un câine scund, îndesat, cu picioare scurte și o față de vulpe. Blana lor dreaptă, de lungime medie, este rezistentă la apă și poate fi roșie, neagră samur, cafenie, neagră cu cafeniu, cu sau fără pete albe. Un Pembroke adult măsoară 25 – 30 de centimetri, masculii cântărind 10 – 12 kilograme, iar femelele 9 – 11 kilograme."
+        android:textSize="16dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#FF0000"
+        app:layout_constraintTop_toBottomOf="@+id/corgiView"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

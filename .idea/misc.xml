@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_beagle.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_camera_function.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_chow_chow.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_cocker_spaniel.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_corgi.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_dobermann.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_golden_retriever.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_great_dane.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_labrador.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/row_items.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_beagle.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_camera_function.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_chow_chow.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_cocker_spaniel.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_corgi.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_dobermann.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_golden_retriever.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_great_dane.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_labrador.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1743295019157088" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_open_camera.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_recycler_view.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/row_items.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/layout/view_recycler.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/menu/share_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ZZ03EA826/AndroidStudioProjects/MyApplication/app/src/main/res/xml/file_paths.xml" value="0.1453804347826087" />
+      </map>
+    </option>
+  </component>
+</project>
